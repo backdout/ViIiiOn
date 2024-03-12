@@ -1,0 +1,268 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI
+  m_TableCollectionNameGuidString: 2fe310342c75959479e583439b77e9e1
+  m_Entries:
+  - m_Id: 11937480669433856
+    m_Key: TAG1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11937480711376896
+    m_Key: TAG2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11937480711376897
+    m_Key: TAG3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11937480711376898
+    m_Key: TAG4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11937480711376899
+    m_Key: TAG5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11937480711376900
+    m_Key: TAG1_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11937480711376901
+    m_Key: TAG1_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11937480711376902
+    m_Key: TAG2_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11937480711376903
+    m_Key: TAG2_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11937480711376904
+    m_Key: TAG3_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11937480711376905
+    m_Key: TAG3_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11937480711376906
+    m_Key: TAG4_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11937480711376907
+    m_Key: TAG4_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11937480711376908
+    m_Key: TAG5_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11937480711376909
+    m_Key: TAG5_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43960561902325760
+    m_Key: Save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11897312306565121
+    m_Key: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43960561935880192
+    m_Key: CLOSE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11897312306565123
+    m_Key: NAME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11897312306565124
+    m_Key: OPTION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11897312306565125
+    m_Key: BGM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11897312306565126
+    m_Key: LANGUAGE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11897312306565127
+    m_Key: LOGIN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11897312306565128
+    m_Key: JOYSTICK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11897312306565129
+    m_Key: VIBRATION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11897312306565130
+    m_Key: EFFECTSOUND
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11897312306565131
+    m_Key: YES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11897312306565132
+    m_Key: NO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33267779151892480
+    m_Key: NOTICE_NOT_ENOUGHT_STAGE_CLEAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33267779185446912
+    m_Key: NOTICE_ENTER_STAGE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43960561935880193
+    m_Key: EXIT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43960561935880194
+    m_Key: RESUME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43960561935880195
+    m_Key: NOTICE_EXIT_STAGE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11897312306565120
+    m_Key: NEXT_STAGE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11897312306565122
+    m_Key: RETRY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50853023526719488
+    m_Key: SKILL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50853023551885312
+    m_Key: NOTICE_NOT_ENOUGHT_ITEM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50853023551885313
+    m_Key: NOTICE_NOT_ENOUGHT_CARD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50853023551885314
+    m_Key: NOTICE_BUY_SKILLTREE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50853023551885315
+    m_Key: NOTICE_NOT_ENOUGHT_BUY_SKILLTREE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50853023551885316
+    m_Key: SKILL_GET
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51937560188981248
+    m_Key: NOTICE_BUY_ITEM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51937560197369856
+    m_Key: NOTICE_SELL_ITEM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51937560197369857
+    m_Key: INVENTORY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52227472511504384
+    m_Key: BUY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52227472540864512
+    m_Key: SELL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52307576109436928
+    m_Key: SHOP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53403885092507648
+    m_Key: NOTICE_NOT_ENOUGHT_TICKET
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55892499340759040
+    m_Key: QUESTION_LOGIN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55892499374313472
+    m_Key: QUESTION_LOGOUT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55892499374313473
+    m_Key: QUESTION_LOGIN_CONNECT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55892499374313474
+    m_Key: NOTICE_LOGIN_WARRNING_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55892499374313475
+    m_Key: NOTICE_LOGIN_CONNECT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55892499374313476
+    m_Key: NOTICE_LOGIN_WARRNING_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57722433868697600
+    m_Key: NOTICE_LOGOUT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94262345300217856
+    m_Key: NOTICE_LOGIN_WARRNING_11
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94262345333772288
+    m_Key: NOTICE_LOGIN_WARRNING_12
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94262345333772289
+    m_Key: NOTICE_LOGIN_WARRNING_13
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94262345333772290
+    m_Key: NOTICE_LOGIN_WARRNING_14
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94262345333772291
+    m_Key: NOTICE_LOGIN_WARRNING_15
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 9019895638862331929
+  references:
+    version: 2
+    RefIds:
+    - rid: 9019895638862331929
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1686725233438

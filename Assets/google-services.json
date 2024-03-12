@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "681517541863",
+    "firebase_url": "https://viilion-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "viilion",
+    "storage_bucket": "viilion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681517541863:android:701485ee07d5a990bc3542",
+        "android_client_info": {
+          "package_name": "com.VII.ViiliOn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681517541863-roiscvgo9r2q0jqprvq340bh4ai3mnhq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.VII.ViiliOn",
+            "certificate_hash": "a2e6f72bc885c4f4f3169d6087797995102f95b2"
+          }
+        },
+        {
+          "client_id": "681517541863-ol4rm9vg7neu8cj8blscnhtgmj57go5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlxZzrva_mF1KehkqxrGOAZOJ5MrPbQKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681517541863-ol4rm9vg7neu8cj8blscnhtgmj57go5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
